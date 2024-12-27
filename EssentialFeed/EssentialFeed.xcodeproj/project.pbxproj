@@ -182,8 +182,8 @@
 			isa = PBXGroup;
 			children = (
 				864EE0DC2D1476950077B59D /* Helpers */,
-				864EE0DA2D1475110077B59D /* LoadFeedFromCacheUseCaseTests.swift */,
 				864EE0B32D1079FA0077B59D /* CacheFeedUseCaseTests.swift */,
+				864EE0DA2D1475110077B59D /* LoadFeedFromCacheUseCaseTests.swift */,
 				864EE0E32D184FA30077B59D /* ValidateFeedCacheUseCaseTests.swift */,
 			);
 			path = "Feed Cache";
