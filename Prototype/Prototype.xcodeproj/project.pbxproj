@@ -10,22 +10,9 @@
 		8620BAB82D26DDB70073B6C5 /* Prototype.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Prototype.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		8620BACA2D26DDB80073B6C5 /* Exceptions for "Prototype" folder in "Prototype" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Info.plist,
-			);
-			target = 8620BAB72D26DDB70073B6C5 /* Prototype */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		8620BABA2D26DDB70073B6C5 /* Prototype */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				8620BACA2D26DDB80073B6C5 /* Exceptions for "Prototype" folder in "Prototype" target */,
-			);
 			path = Prototype;
 			sourceTree = "<group>";
 		};
