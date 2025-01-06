@@ -10,7 +10,6 @@ import UIKit
 import EssentialFeed
 import EssentialFeediOS
 
-
 final class FeedViewControllerTests: XCTestCase {
     
     func test_loadFeedActions_requestsFeedFromLoader() {
