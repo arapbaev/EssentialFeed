@@ -6,8 +6,9 @@
 //
 
 import UIKit
+import EssentialFeediOS
 
-extension UITableViewController {
+extension FeedViewController {
     func simulateAppearance() {
         if !isViewLoaded {
             loadViewIfNeeded()
@@ -28,6 +29,7 @@ extension UITableViewController {
         }
         
         refreshControl = fake
+        refreshController?.view = fake
     }
 }
 
